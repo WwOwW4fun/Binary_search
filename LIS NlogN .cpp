@@ -52,7 +52,6 @@ void LIS()
 		}
 	}
 	cout << size << endl;
-	for0(i,1,size + 1) cout << d[i] << " "; 
 }
 int main()
 {
